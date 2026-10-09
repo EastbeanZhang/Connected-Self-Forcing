@@ -8,7 +8,7 @@ Yu Zhang<sup>1</sup>, Xianming Liu<sup>1</sup>, Boyang Wang<sup>1,†</sup>
 
 <sup>*</sup> Project lead. <sup>†</sup> Corresponding author.
 
-[**Paper**](https://arxiv.org/abs/2610.12156) · [**Project Page**](https://eastbeanzhang.github.io/CSF/)
+[**Paper**](https://arxiv.org/abs/2610.12156) · [**Project Page**](https://eastbeanzhang.github.io/CSF/) · [**YouTube**](https://www.youtube.com/watch?v=rEnlDlRXLVQ)
 
 ## Introduction
 
